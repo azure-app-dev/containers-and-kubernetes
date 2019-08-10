@@ -6,15 +6,16 @@ Presentation:
 
 ## Kubernetes Overview
 
+Presentation: 
 - [Slides](https://aka.ms/k8s-101)
 
 ## Azure Container Service Overview
 
-Presentation
+Presentation:
 - [Slides](https://aka.ms/aks-overview)
 
 ## AKS Best Practices
 
-Presentation
+Presentation:
 - [Slides](https://aka.ms/aks-best-practices)
 
