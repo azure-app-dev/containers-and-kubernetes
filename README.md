@@ -1,8 +1,20 @@
-# Containers on Azure Overview
+## Containers on Azure Overview
 
-Slides: 
-- [Containers on Azure Overview](https://aka.ms/containers-overview)
-- [Kubernetes Overview](https://aka.ms/k8s-101)
-- [Azure Kubernetes Service Overview](https://aka.ms/aks-overview)
-- [AKS Best Practice](https://aka.ms/aks-best-practices)
+Presentation:
+- [Recorded Screen cast](https://youtu.be/V262snZ0R5I)
+- [Slides](https://aka.ms/containers-overview)
+
+## Kubernetes Overview
+
+- [Slides](https://aka.ms/k8s-101)
+
+## Azure Container Service Overview
+
+Presentation
+- [Slides](https://aka.ms/aks-overview)
+
+## AKS Best Practices
+
+Presentation
+- [Slides](https://aka.ms/aks-best-practices)
 
